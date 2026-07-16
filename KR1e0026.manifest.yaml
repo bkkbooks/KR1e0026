@@ -34,10 +34,10 @@ assets:
   - {seq: 11, filename: KR1e0026_011.yaml, hash: 'sha256:64df9985743d8a1eaddc40401b9ddb25313c3bc22a5d81babff00782edad319f'}
   - {seq: 12, filename: KR1e0026_012.yaml, hash: 'sha256:89f441ba1b28d5040fdf35b72543ec9ee672392366bd543050ca4cf2f3991288'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0026_000.markers.yaml, hash: 'sha256:e74e780e1a82fdc30e26426d9a44b7f8996543002f04bfbe8419fda6494c5992'}
+  - {seq: 0, role: markers, filename: assets/KR1e0026_000.markers.yaml, hash: 'sha256:ca159ef773df26c9eed561da0e9acccc3d384d62c3a8eb04ed3d1f9ab6da528e'}
   - {seq: 1, role: markers, filename: assets/KR1e0026_001.markers.yaml, hash: 'sha256:1ae2a20243d4391b7d3c247b40031d065385db677ef1d0468c8b5ac87b9bc69a'}
   - {seq: 2, role: markers, filename: assets/KR1e0026_002.markers.yaml, hash: 'sha256:f764591e7863d39a231f9d2070dff3f974293081c23cd132c5b3054f2707ed85'}
-  - {seq: 3, role: markers, filename: assets/KR1e0026_003.markers.yaml, hash: 'sha256:62fc564ab4da82b5a9c10ff52aa97f32f79bd1e92a2aedbf7d7d45f3ad48bcd6'}
+  - {seq: 3, role: markers, filename: assets/KR1e0026_003.markers.yaml, hash: 'sha256:97a169c82096d7e8083b2a9633a67a91689ef00e89626e681997809c9ff8bfe6'}
   - {seq: 4, role: markers, filename: assets/KR1e0026_004.markers.yaml, hash: 'sha256:8bf579eda2fe9e5249ada6fcda759109c51121d63f69501fafda02829c8e225e'}
   - {seq: 5, role: markers, filename: assets/KR1e0026_005.markers.yaml, hash: 'sha256:5125955a325b381977c032e904845fff3c2d03e428bb4ff5407eda77e64eecb8'}
   - {seq: 6, role: markers, filename: assets/KR1e0026_006.markers.yaml, hash: 'sha256:e235bc2307ebdd9ecf5684a12e67bf4b49716a9fa0140fa7eebc8d189db0fae3'}
@@ -188,7 +188,7 @@ table_of_contents:
   label: 卷十二
   type: section
   level: 1
-hash: sha256:a3eb788b791b6fa2498232d4aa095adcb4dfa1d14c53d8adc082816a8a20e327
+hash: sha256:cc2670d893ebd6f24fef856c69956d908039db004b3e54237497659f20498ac6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
